@@ -9,7 +9,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ai-sdk/deepseek": "^1.0.30",
     "@ai-sdk/groq": "latest",
+    "@ai-sdk/openai": "^2.0.75",
     "@hookform/resolvers": "^3.9.1",
     "@neondatabase/serverless": "latest",
     "@radix-ui/react-accordion": "latest",
