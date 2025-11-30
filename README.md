@@ -24,7 +24,7 @@
 
 ## الرابط المباشر
 
-**[https://v0-drx3apipage2.vercel.app](https://v0-drx3apipage2.vercel.app)**
+**[https://v0-drx3apipage2.vercel.app](https://drx-chatbot.vercel.app)**
 
 ## التطوير المحلي
 
